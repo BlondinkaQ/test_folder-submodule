@@ -1,0 +1,3 @@
+[submodule "subfolder/into"]
+	path = subfolder/into
+	url = https://github.com/BlondinkaQ/into.git
